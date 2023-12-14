@@ -1,4 +1,13 @@
-#### Install this project with terminal
+# Petition Management Website
+# პეტიციების პორტალი
+Users can login/register, add petitions and sign petitions they like.
+
+
+# Installation
+# პროექტის ინსტალაცია 
+
+
+## Install this project with terminal
 Clone this repository and run the following commands:
 
 Create and Activate Virtual Environment
