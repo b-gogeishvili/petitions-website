@@ -7,8 +7,18 @@ Users can login/register, add petitions and sign petitions they like.
 # პროექტის ინსტალაცია 
 
 
+
+
 ## Install this project with terminal
-Clone this repository and run the following commands:
+Run the following commands:
+
+Clone this Repository
+```bash
+git clone https://github.com/b-gogeishvili/Petitions-Website.git
+```
+```bash
+cd Petitions-Website
+```
 
 Create and Activate Virtual Environment
 ```bash
