@@ -30,8 +30,6 @@ flask run
 #### Install this project on PyCharm
 1) Download this project as a zip file.
 
-![Git Download](https://i.ibb.co/DVQXBkq/first.jpg)
-
 
 2) Unzip and open the project in PyCharm. PyCharm should prompt you to create a new virtual environment and install the dependencies listed in the requirements.txt. Agree and click OK.
 
